@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis-Dashboard-Power-BI
+# Adidas-Sales-Analysis-Dashboard
 📌 Overview 
 
 This project is focused on analyzing Adidas sales data using Power BI to uncover meaningful business insights and support data-driven decision-making. The dashboard visualizes key metrics such as total profit, sales by product category, retailer performance, sales trends over time, and regional breakdowns.
